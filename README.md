@@ -1,12 +1,8 @@
-Aqui vai uma versão mais polida e visual, mantendo tudo em inglês e com um estilo mais moderno (com emojis e boa formatação):
-
----
-
-# 🔵 Bluetooth Toolkit (BlueKill)
+# 🔵 Blueforce
 
 ## 📖 Overview
 
-**BlueKill** is an **experimental Bluetooth toolkit** designed for **scanning, simulating, and experimenting** with Bluetooth devices (both BLE and Classic).
+**Blueforce** is an **experimental Bluetooth toolkit** designed for **scanning, simulating, and experimenting** with Bluetooth devices (both BLE and Classic).
 Built in **Python**, it leverages the **Linux BlueZ stack** and **D-Bus** to enable advanced operations like BLE advertising and device interaction.
 
 > ⚠ **Disclaimer**
